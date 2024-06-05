@@ -33,3 +33,9 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
+model-00001-of-00004.safetensors filter=lfs diff=lfs merge=lfs -text
+model-00002-of-00004.safetensors filter=lfs diff=lfs merge=lfs -text
+model-00003-of-00004.safetensors filter=lfs diff=lfs merge=lfs -text
+model-00004-of-00004.safetensors filter=lfs diff=lfs merge=lfs -text
+modeling_bamboo.py filter=lfs diff=lfs merge=lfs -text
+model.safetensors.index.json filter=lfs diff=lfs merge=lfs -text

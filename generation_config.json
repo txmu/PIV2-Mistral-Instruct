@@ -1,0 +1,6 @@
+{
+  "do_sample": true,
+  "max_new_tokens": 4096,
+  "temperature": 0.0,
+  "transformers_version": "4.41.0"
+}
