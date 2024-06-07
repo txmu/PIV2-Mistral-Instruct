@@ -24,6 +24,11 @@ We take ChatML as our chat template:
 
 As we merged the predictors for FFN neurons in models, you can finetune TurboSparse-Mistral with any framework and algorithm.
 
+## Limitations
+* TurboSparse, having just undergone training with 150B tokens, may still exhibit performance gaps in certain tasks.
+* The TurboSparse model has only been trained on English-language datasets, hence its capabilities in other languages are still lacking.
+* The model may produce unexpected outputs due to its small size and probabilistic generation paradigm.
+
 ## License
 
 The model is licensed under Apache-2.0, while model weights are fully open for academic research and also allow **free** commercial usage. 
