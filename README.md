@@ -27,7 +27,7 @@ As we merged the predictors for FFN neurons in models, you can finetune TurboSpa
 ## Limitations
 * TurboSparse, having just undergone training with 150B tokens, may still exhibit performance gaps in certain tasks.
 * The TurboSparse model has only been trained on English-language datasets, hence its capabilities in other languages are still lacking.
-* The model may produce unexpected outputs due to its small size and probabilistic generation paradigm.
+* The model may produce unexpected outputs due to its small size, limited training tokens and probabilistic generation paradigm.
 
 ## License
 
