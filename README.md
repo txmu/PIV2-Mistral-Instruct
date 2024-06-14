@@ -2,7 +2,7 @@
 license: apache-2.0
 ---
 # Model Card for TurboSparse-Mistral
-The TurboSparse-Mixtral Large Language Model (LLM) is an sparsified version of the Mixtral.
+The [TurboSparse-Mistral](https://arxiv.org/abs/2406.05955) Large Language Model (LLM) is an sparsified version of the Mixtral.
 
 <img src="takeaway.png" alt="avatar" width="300" height="200"/>
 
